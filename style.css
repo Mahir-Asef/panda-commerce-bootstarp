@@ -1,6 +1,13 @@
-.information-background{
+.panda-bg{
     background-color: rgb(253, 172, 163) ;
 }
 .button-color{
-    background-color: red;
+    color: white;
+    background-color:rgb(219, 83, 137);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img{
+    width: 100px;
 }
